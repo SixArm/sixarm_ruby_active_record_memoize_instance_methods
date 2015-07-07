@@ -3,8 +3,8 @@
 Please see README
 =end
 
-require 'activerecord'
-require 'activesupport'
+require "activerecord"
+require "activesupport"
 
 class ActiveRecord::Base
   extend ActiveSupport::Memoizable
