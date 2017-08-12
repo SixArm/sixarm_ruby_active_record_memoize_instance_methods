@@ -1,4 +1,4 @@
-# Ruby » <br> ActiveRecord Memoize Instance Methods
+SixArm.com → Ruby → <br> ActiveRecord Memoize Instance Methods
 
 * Doc: <http://sixarm.com/sixarm_ruby_active_record_memoize_instance_methods/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_active_record_memoize_instance_methods>
